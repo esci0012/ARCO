@@ -77,13 +77,17 @@ labeled 'stale'.
 
 - Facebook: https://www.facebook.com/aquarius.coin
 
-- Telegram: https://t.me/BlockmasterSi
+- Telegram: https://t.me/AquariusCoin
 
 - Medium: https://medium.com/@BlockmasterSi/
 
 - CoinmarketCap: https://coinmarketcap.com/currencies/aquuariuscoin/
 
 - Coinpaprika: https://coinpaprika.com/coin/arco-aquariuscoin/
+
+- CoinGecko: https://www.coingecko.com/en/coins/aquariuscoin
+
+- CoinCodex: https://coincodex.com/crypto/aquariuscoin/
 
 - Blockexplorer: https://chainz.cryptoid.info/arco/
 
