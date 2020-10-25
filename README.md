@@ -32,6 +32,8 @@
 
 AquariusCoin blockchain snapshots/chain states/bootstrap.dat (pCloud: http://pc.cd/n3RotalK )
 
+AquariusCoin blockchain snapshots/chain states/bootstrap.dat (MS OneDrive)https://1drv.ms/f/s!AklKAv1s6c88ctxpwexqTocI0Dw
+
 Responsible disclosure and security contact: security@aquariuscoin.com
 
 Exchanges and listing contact (digital currency exchange representatives should take note Arco is an open source network with no premine/instamine or any type of crowdfunding and no listing fee budget is awailable): listings@aquariuscoin.com
