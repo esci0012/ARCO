@@ -30,9 +30,13 @@
 
 - RPC port: 6206
 
-AquariusCoin blockchain snapshots/chain states/bootstrap.dat (pCloud: http://pc.cd/n3RotalK )
+## Boostrap files / chain state
 
-AquariusCoin blockchain snapshots/chain states/bootstrap.dat (MS OneDrive)https://1drv.ms/f/s!AklKAv1s6c88ctxpwexqTocI0Dw
+* AquariusCoin blockchain snapshots/chain states/bootstrap.dat (pCloud: http://pc.cd/n3RotalK )
+
+* AquariusCoin blockchain snapshots/chain states/bootstrap.dat (MS OneDrive)https://1drv.ms/f/s!AklKAv1s6c88ctxpwexqTocI0Dw
+
+## Developer contacts 
 
 Responsible disclosure and security contact: security@aquariuscoin.com
 
