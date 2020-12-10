@@ -85,8 +85,6 @@ labeled 'stale'.
 
 - Telegram: https://t.me/AquariusCoin
 
-- Medium: https://medium.com/@BlockmasterSi/
-
 - CoinmarketCap: https://coinmarketcap.com/currencies/aquuariuscoin/
 
 - Coinpaprika: https://coinpaprika.com/coin/arco-aquariuscoin/
@@ -101,7 +99,9 @@ labeled 'stale'.
 
 - Youtube: https://www.youtube.com/channel/UCQNanILOjs-G3DiO29l7GQg
 
-- Reddit: https://www.reddit.com/r/BlockmasterSi
+- Reddit: https://www.reddit.com/r/AquariusCoinARCO/
+
+- Linkedin: https://www.linkedin.com/company/aquariuscoin
 
 - Mobile wallet for android: https://play.google.com/store/apps/details?id=com.cryptowallet.si
 
