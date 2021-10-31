@@ -85,7 +85,7 @@ labeled 'stale'.
 
 - Telegram: https://t.me/AquariusCoin
 
-- CoinmarketCap: https://coinmarketcap.com/currencies/aquuariuscoin/
+- CoinmarketCap: https://coinmarketcap.com/currencies/aquariuscoin/
 
 - Coinpaprika: https://coinpaprika.com/coin/arco-aquariuscoin/
 
